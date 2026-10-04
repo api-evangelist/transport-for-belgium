@@ -39,7 +39,6 @@ apis:
   - name: Transport for Belgium
     description: "The iRail API is a third-party API for Belgian public transport by train"
     humanURL: https://docs.irail.be/
-    baseURL: https://docs.irail.be/
     tags:
       - Transportation
     properties:
